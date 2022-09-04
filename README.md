@@ -12,7 +12,7 @@ Following the Microsoft Learn path from [here](https://docs.microsoft.com/en-us/
 
 1. [Manage identities and governance in Azure](./2%20Manage%20identities%20and%20governance%20in%20Azure/)
     1. [Configure Azure Active Directory](./2%20Manage%20identities%20and%20governance%20in%20Azure/1%20Configure%20Azure%20Active%20Directory.md)
-    1. _
+    1. [Configure user and group accounts](./2%20Manage%20identities%20and%20governance%20in%20Azure/2%20Configure%20user%20and%20group%20accounts.md)
     1. _
     1. _
     1. _

@@ -8,12 +8,14 @@
         "eastus",
         "GZRS",
         "learntemplatestorage",
+        "mgmt",
         "popupappplan",
         "popupwebapp",
         "pwsh",
         "Quickstart",
         "RAGRS",
         "RAGZRS",
+        "SSPR",
         "westus"
     ]
 }
