@@ -60,7 +60,7 @@
 |Measure|Description|
 |--|--|
 Reservations|'Pre-book' a resource for a certain amount of time rather than paying on-demand. Usually ~40-60% cheaper, but can be up to 70% in some cases.
-Azure Hybrid Benefits|BYOL in case you already have on-prem Windows Server or SQL Server licenses
+Azure Hybrid Benefits|BYOL in case you already have on-prem Windows Server or SQL Server licenses.
 Azure Credits|Monthly credit benefit for experimentation with new solutions.
 Optimizing region|Pricing differs across regions and services, so if the region itself doesn't matter you otherwise, may be able to cut costs by moving to a different region.
 [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)|Help predict and estimate how much certain resources will cost.
