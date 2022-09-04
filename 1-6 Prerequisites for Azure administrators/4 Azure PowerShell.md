@@ -51,6 +51,12 @@ Other sample commands:
 * ```Get-AzResourceGroup | Format-Table``` - get resource groups and format as a table
 * ```New-AzResourceGroup -Name <name> -Location <location>``` - create new RG
 
+### Searching for commands
+
+```PowerShell
+Get-Command -Verb Get -Noun AzVM* -Module Az.Compute
+```
+
 ### Authentication and context setup
 
 To start using the module, you need to authenticate. You can do this with ```Connect-AzAccount```.
