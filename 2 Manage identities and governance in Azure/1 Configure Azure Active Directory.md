@@ -17,8 +17,8 @@ Azure Active Directory (AAD) is a multi-tenant cloud-based directory and identit
 |-|-|
 SSO|Azure AD provides Single Sign-On to various web apps both on the cloud and on-premise.
 Ubiquitous device support|AAD works with every device and provides the same experience across devices.
-Secure remote access|AAD enables secure remote access for on-prem web apps, and can additional factors of authentication for MBA, conditional access policies, and manage access using groups.
-Cloud extensibility|Takes the traditional AD service and expands it to cloud services with AAD
+Secure remote access|AAD enables secure remote access for on-prem web apps, and supports additional factors of authentication for MFA, conditional access policies, and managing access using groups.
+Cloud extensibility|Takes the traditional AD service and expands it to cloud services with AAD.
 Sensitive data protection|Identity protection for sensitive data and apps, including audit and activity logging and flagging potential vulnerabilities on resources and users.
 Self-service support|AAD offers extensive self-service support for users like configuring MFA options, resetting passwords, all of which reduces admin toil and enhances security.
 
@@ -52,7 +52,7 @@ Identity Solution |Full identity solution, designed for internet-based applicati
 Queries: REST API|Yes|No
 Queries: LDAP|No|Yes
 Communication protocols|SAML, WS-Federation, OpenID/OAuth|Kerberos
-Structure|Flat - no OUs (organizational units) or GPOs (group policy objects)|Grouped hierarchy with OUs and GPOs
+Structure|Flat - no OUs or GPOs, though has its own ['administrative units'](https://docs.microsoft.com/en-us/azure/active-directory/roles/administrative-units) |Grouped hierarchy with OUs (org units) and GPOs (Group Policy Objects)
 Service type|Managed service|Self-hosted/maintained
 
 ## Azure AD Editions / licensing
