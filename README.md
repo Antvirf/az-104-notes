@@ -8,7 +8,7 @@ Following the Microsoft Learn path from [here](https://docs.microsoft.com/en-us/
     1. [Configure resources with ARM templates](./1-6%20Prerequisites%20for%20Azure%20administrators/3%20Configure%20resources%20with%20ARM%20templates.md)
     1. [Azure PowerShell](./1-6%20Prerequisites%20for%20Azure%20administrators/4%20Azure%20PowerShell.md)
     1. [Azure CLI](./1-6%20Prerequisites%20for%20Azure%20administrators/5%20Azure%20CLI.md)
-    1. _
+    1. [ARM Templates in detail](./1-6%20Prerequisites%20for%20Azure%20administrators/6%20Deploy%20Azure%20infrastructure%20by%20using%20JSON%20ARM%20templates.md)
 
 1. Manage identities and governance in Azure
     1. _
