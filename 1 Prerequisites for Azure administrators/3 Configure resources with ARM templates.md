@@ -9,13 +9,13 @@
 
 ## ARM Templates
 
-Declarative JSON-based (*or* 'Bicep'-based) templates specific to Azure that allow you to declare your infrastructure as code. They retain a connection between a deployment and the template - if you redeploy a slightly changed template, only edits are applied (i.e. it doesn't just re-deploy everything).
+Declarative JSON-based (*or* 'Bicep'-based) templates specific to Azure that allow you to declare your infrastructure as code. They retain a connection between a deployment and the template - if you redeploy a slightly changed template, only edits are applied (i.e. it doesn't just re-deploy everything). This means that the templates are **idempotent**.
 
 Many of the benefits below are applicable to Infrastructure-as-Code (IaC) generally, not just ARM templates.
 
 * Improve consistency
 * Express and execute complex deployments easily, including dependencies and order
-* Templates are code, and can be tracked as code
+* Templates are code, and can be tracked as code - better traceability
 * Promote reuse
 * Linkable and modular
 
