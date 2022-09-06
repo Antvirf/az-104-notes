@@ -19,8 +19,8 @@ Probably **NOT** sufficient by itself to read up for the exam.
     1. [Configure Azure policy](./2%20Manage%20identities%20and%20governance%20in%20Azure/4%20Configure%20Azure%20policy.md)
     1. [Configure role-based access control](./2%20Manage%20identities%20and%20governance%20in%20Azure/5%20Configure%20role-based%20access%20control.md)
     1. [Create Azure users and groups in Azure AD](./2%20Manage%20identities%20and%20governance%20in%20Azure/6%20Create%20Azure%20users%20and%20groups%20in%20AAD.md)
-    1. _
-    1. _
+    1. [Secure your Azure resources with RBAC](./2%20Manage%20identities%20and%20governance%20in%20Azure/7%20Secure%20your%20Azure%20resources%20with%20RBAC.md)
+    1. [Enable Azure AD Self-service password reset](./2%20Manage%20identities%20and%20governance%20in%20Azure/8%20Enable%20Azure%20AD%20Self-service%20password%20reset.md)
 
 1. Implement and manage storage in Azure
     1. _
