@@ -23,7 +23,7 @@ Probably **NOT** sufficient by itself to read up for the exam.
     1. [Enable Azure AD Self-service password reset](./2%20Manage%20identities%20and%20governance%20in%20Azure/8%20Enable%20Azure%20AD%20Self-service%20password%20reset.md)
 
 1. Implement and manage storage in Azure
-    1. _
+    1. [Configure storage accounts](./3%20Implement%20and%20manage%20storage%20in%20Azure/1%20Configure%20storage%20accounts.md)
     1. _
     1. _
     1. _

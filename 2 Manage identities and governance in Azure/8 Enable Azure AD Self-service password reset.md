@@ -19,7 +19,7 @@
 
 Admin can specify minimum number of methods that need to be set up by the user: 1 or 2. Users can choose which ones to use among those enabled.
 
-For security questions, the admin can also specify minimum number of questions. 
+For security questions, the admin can also specify minimum number of questions.
 
 |Auth method|Registration|Usage|Tip|
 |--|--|--|--|
@@ -38,11 +38,11 @@ Security questions|Select questions and define the answers.|Answer the questions
 ### Notes for administrator accounts
 
 * Security questions are NOT available as an auth method.
-* Two-method authentication requirement policy is always applied to administrator-role accounts, regardless of the setting for regular users. 
+* Two-method authentication requirement policy is always applied to administrator-role accounts, regardless of the setting for regular users.
 
 ## Notes on AAD Connect & cloud sync
 
-SSPR can be deployed with writeback using AAD connect or cloud sync, to enable syncing changed passwords across domains. Cloud sync may also help with higher availability by not relying on a single AAD connect. 
+SSPR can be deployed with write back using AAD connect or cloud sync, to enable syncing changed passwords across domains. Cloud sync may also help with higher availability by not relying on a single AAD connect.
 
 [Read more about this topic: Comparing AAD Connect sync vs. Cloud sync](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync#how-is-azure-ad-connect-cloud-sync-different-from-azure-ad-connect-sync)
 
