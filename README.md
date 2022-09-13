@@ -24,7 +24,7 @@ Probably **NOT** sufficient by itself to read up for the exam.
 
 1. Implement and manage storage in Azure
     1. [Configure storage accounts](./3%20Implement%20and%20manage%20storage%20in%20Azure/1%20Configure%20storage%20accounts.md)
-    1. _
+    1. [Configure Blob storage](./3%20Implement%20and%20manage%20storage%20in%20Azure/2%20Configure%20blob%20storage.md)
     1. _
     1. _
     1. _
