@@ -3,7 +3,7 @@
 ## Learning objectives
 
 * Identify features and use cases for Azure Blob Storage
-* Configure BLob storage and Blob access tiers
+* Configure Blob storage and Blob access tiers
 * Configure Blob lifecycle management rules
 * Configure Blob object replication
 * Upload and price Blob storage
