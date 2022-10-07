@@ -30,7 +30,7 @@ Probably **NOT** sufficient by itself to read up for the exam.
     1. [Configure storage with tools](./3%20Implement%20and%20manage%20storage%20in%20Azure/5%20Configure%20storage%20with%20tools.md)
     1. [Create an Azure Storage Account](./3%20Implement%20and%20manage%20storage%20in%20Azure/6%20Create%20an%20Azure%20Storage%20account.md)
     1. [Control access to Azure storage with shared access signatures](./3%20Implement%20and%20manage%20storage%20in%20Azure/7%20Control%20access%20to%20Azure%20storage%20with%20shared%20access%20signatures.md)
-    1. _
+    1. [Upload, download, and manage data with Azure Storage Explorer](/3%20Implement%20and%20manage%20storage%20in%20Azure/8%20Upload%2C%20download%2C%20and%20manage%20data%20with%20Azure%20Storage%20Explorer.md)
 
 1. Deploy and manage Azure compute resources
     1. _
